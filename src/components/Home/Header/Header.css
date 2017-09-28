@@ -1,0 +1,14 @@
+.refresh {
+    font-size: 80%;
+    margin-left: 10px;
+}
+
+.header {
+    background: #ECECEC;
+    padding: 5px;
+}
+
+.header h2 {
+    font-weight: bold;
+    display: inline-block;
+}
